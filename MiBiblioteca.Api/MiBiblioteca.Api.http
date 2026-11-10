@@ -1,0 +1,43 @@
+@MiBiblioteca.Api_HostAddress = http://localhost:5096
+
+### Obtener libros (página 1, 20 por página)
+GET {{MiBiblioteca.Api_HostAddress}}/libros
+Accept: application/json
+
+### Obtener libros paginados (página 2, 5 por página)
+GET {{MiBiblioteca.Api_HostAddress}}/libros?pagina=2&tamanioPagina=5
+Accept: application/json
+
+### Obtener un libro por id (cambiá el 1 por un id existente)
+GET {{MiBiblioteca.Api_HostAddress}}/libros/1
+Accept: application/json
+
+### Crear un libro
+POST {{MiBiblioteca.Api_HostAddress}}/libros
+Content-Type: application/json
+
+{
+  "titulo": "Cien años de soledad",
+  "editorial": "Sudamericana",
+  "anioPublicacion": "1967",
+  "isbn13": "9780307474728",
+  "paginas": 471
+}
+
+### Actualizar un libro (cambiá el 1 por un id existente; PUT reemplaza todos los datos)
+PUT {{MiBiblioteca.Api_HostAddress}}/libros/1
+Content-Type: application/json
+
+{
+  "titulo": "Cien años de soledad",
+  "subtitulo": "Edición conmemorativa",
+  "editorial": "Sudamericana",
+  "anioPublicacion": "1967",
+  "isbn13": "9780307474728",
+  "paginas": 496
+}
+
+### Eliminar un libro (cambiá el 1 por un id existente)
+DELETE {{MiBiblioteca.Api_HostAddress}}/libros/1
+
+###

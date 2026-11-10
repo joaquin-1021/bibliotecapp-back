@@ -1,0 +1,17 @@
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/bin/Debug/net10.0/MiBiblioteca.Infrastructure.deps.json
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/bin/Debug/net10.0/MiBiblioteca.Infrastructure.dll
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/bin/Debug/net10.0/MiBiblioteca.Infrastructure.pdb
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/bin/Debug/net10.0/MiBiblioteca.Application.dll
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/bin/Debug/net10.0/MiBiblioteca.Domain.dll
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/bin/Debug/net10.0/MiBiblioteca.Application.pdb
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/bin/Debug/net10.0/MiBiblioteca.Domain.pdb
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/obj/Debug/net10.0/MiBiblioteca.Infrastructure.csproj.AssemblyReference.cache
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/obj/Debug/net10.0/MiBiblioteca.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/obj/Debug/net10.0/MiBiblioteca.Infrastructure.AssemblyInfoInputs.cache
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/obj/Debug/net10.0/MiBiblioteca.Infrastructure.AssemblyInfo.cs
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/obj/Debug/net10.0/MiBiblioteca.Infrastructure.csproj.CoreCompileInputs.cache
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/obj/Debug/net10.0/MiBiblio.636CBAD0.Up2Date
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/obj/Debug/net10.0/MiBiblioteca.Infrastructure.dll
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/obj/Debug/net10.0/refint/MiBiblioteca.Infrastructure.dll
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/obj/Debug/net10.0/MiBiblioteca.Infrastructure.pdb
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Infrastructure/obj/Debug/net10.0/ref/MiBiblioteca.Infrastructure.dll

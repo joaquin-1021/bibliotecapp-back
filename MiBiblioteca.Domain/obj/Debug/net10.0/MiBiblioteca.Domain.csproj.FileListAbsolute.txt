@@ -1,0 +1,11 @@
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/bin/Debug/net10.0/MiBiblioteca.Domain.deps.json
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/bin/Debug/net10.0/MiBiblioteca.Domain.dll
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/bin/Debug/net10.0/MiBiblioteca.Domain.pdb
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/obj/Debug/net10.0/MiBiblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/obj/Debug/net10.0/MiBiblioteca.Domain.AssemblyInfoInputs.cache
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/obj/Debug/net10.0/MiBiblioteca.Domain.AssemblyInfo.cs
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/obj/Debug/net10.0/MiBiblioteca.Domain.csproj.CoreCompileInputs.cache
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/obj/Debug/net10.0/MiBiblioteca.Domain.dll
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/obj/Debug/net10.0/refint/MiBiblioteca.Domain.dll
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/obj/Debug/net10.0/MiBiblioteca.Domain.pdb
+/home/jlell/Escritorio/Mi-Biblioteca/backend/MiBiblioteca.Domain/obj/Debug/net10.0/ref/MiBiblioteca.Domain.dll
